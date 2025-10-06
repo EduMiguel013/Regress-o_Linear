@@ -215,8 +215,7 @@ Este projeto é de código aberto e está disponível sob a licença MIT.
 ## 👨‍💻 Autor
 
 Nome do autor: Eduardo Miguel Ribeiro Cordeiro
-
-Desenvolvido como projeto de análise financeira e aprendizado de machine learning.
+e-mail: edumiguelcordeiro@gmail.com
 
 ## 📚 Referências
 
