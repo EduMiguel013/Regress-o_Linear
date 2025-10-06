@@ -215,6 +215,7 @@ Este projeto é de código aberto e está disponível sob a licença MIT.
 ## 👨‍💻 Autor
 
 Nome do autor: Eduardo Miguel Ribeiro Cordeiro
+
 e-mail: edumiguelcordeiro@gmail.com
 
 ## 📚 Referências
